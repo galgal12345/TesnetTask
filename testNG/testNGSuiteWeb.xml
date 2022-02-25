@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteWeb" parallel="false">
+    <listeners>
+        <listener class-name="utilities.Listeners"/>
+    </listeners>
+    <test name="W3schoolTableWebTest">
+        <parameter name="platform" value="webDriver"/>
+        <classes>
+            <class name="testcases.W3schoolTableWebTestCases"></class>
+        </classes>
+    </test>
+</suite>

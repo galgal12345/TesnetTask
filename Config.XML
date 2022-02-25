@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<env>
+    <!--WEB-->
+    <Url>https://www.w3schools.com/html/html_tables.asp</Url>
+    <searchText>Ernst Handel</searchText>
+    <expectedText>Austria</expectedText>
+
+    <!--API-->
+    <host>pop.gmail.com</host>
+    <mailStoreType>pop3</mailStoreType>
+    <username>mwtyspyrw@gmail.com</username>
+    <password>yeftouwxahfaymgl</password>
+
+</env>
